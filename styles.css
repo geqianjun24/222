@@ -1,0 +1,36 @@
+body {
+    font-family: 'Microsoft YaHei', sans-serif;
+    padding-top: 20px;
+    background-color: #f8f9fa;
+}
+
+.card {
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.team-card {
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.team-card h5 {
+    color: #0d6efd;
+}
+
+.team-card h5.completed {
+    color: #6c757d;
+    text-decoration: line-through;
+}
+
+.team-card p {
+    margin-bottom: 5px;
+}
+
+.contact-info {
+    font-weight: bold;
+    color: #198754;
+}
