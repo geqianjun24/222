@@ -1,0 +1,8 @@
+autoOpen: false
+apps:
+  - port: 8080
+    run: python -m http.server 8080
+    root: /
+    name: course-team-app
+    description: 学校课程组队平台
+    autoOpen: false

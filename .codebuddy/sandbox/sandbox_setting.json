@@ -1,20 +1,20 @@
 {
   "path": "c:\\Users\\Lenovo\\CodeBuddy\\20250903221558",
-  "desc": "修复后的课程组队平台，解决内容显示问题",
-  "id": "dfeb338d373a444eb1d0b5f4d3e283f2",
+  "desc": "学校课程组队平台 - 更新preview配置",
+  "id": "4b366aea1e5e414085b287cddff78346",
   "data": {
-    "spaceKey": "dfeb338d373a444eb1d0b5f4d3e283f2",
+    "spaceKey": "4b366aea1e5e414085b287cddff78346",
     "connections": {
-      "webIDE": "https://dfeb338d373a444eb1d0b5f4d3e283f2.codebuddy.cloudstudio.club",
-      "preview": "https://dfeb338d373a444eb1d0b5f4d3e283f2--{port}.codebuddy.cloudstudio.club",
-      "api": "https://dfeb338d373a444eb1d0b5f4d3e283f2--api.codebuddy.cloudstudio.club",
-      "pty": "https://dfeb338d373a444eb1d0b5f4d3e283f2--pty.codebuddy.cloudstudio.club"
+      "webIDE": "https://4b366aea1e5e414085b287cddff78346.codebuddy.cloudstudio.club",
+      "preview": "https://4b366aea1e5e414085b287cddff78346--{port}.codebuddy.cloudstudio.club",
+      "api": "https://4b366aea1e5e414085b287cddff78346--api.codebuddy.cloudstudio.club",
+      "pty": "https://4b366aea1e5e414085b287cddff78346--pty.codebuddy.cloudstudio.club"
     }
   },
   "config": {
-    "api": "https://dfeb338d373a444eb1d0b5f4d3e283f2--api.codebuddy.cloudstudio.club",
-    "pty": "https://dfeb338d373a444eb1d0b5f4d3e283f2--pty.codebuddy.cloudstudio.club",
+    "api": "https://4b366aea1e5e414085b287cddff78346--api.codebuddy.cloudstudio.club",
+    "pty": "https://4b366aea1e5e414085b287cddff78346--pty.codebuddy.cloudstudio.club",
     "region": "ap-shanghai",
-    "spaceKey": "dfeb338d373a444eb1d0b5f4d3e283f2"
+    "spaceKey": "4b366aea1e5e414085b287cddff78346"
   }
 }
