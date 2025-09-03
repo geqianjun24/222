@@ -1,8 +1,9 @@
-autoOpen: false
+autoOpen: true
 apps:
-  - port: 8080
-    run: python -m http.server 8080
-    root: /
+  - port: 3000
+    run: python -m http.server 3000
+    root: /workspace
     name: course-team-app
     description: 学校课程组队平台
-    autoOpen: false
+    autoOpen: true
+    public: true

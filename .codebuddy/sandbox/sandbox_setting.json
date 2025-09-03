@@ -1,20 +1,20 @@
 {
   "path": "c:\\Users\\Lenovo\\CodeBuddy\\20250903221558",
-  "desc": "学校课程组队平台 - 更新preview配置",
-  "id": "4b366aea1e5e414085b287cddff78346",
+  "desc": "课程组队平台 - 修复重复表单问题",
+  "id": "057841690ec8402a88c2b29b817a56e0",
   "data": {
-    "spaceKey": "4b366aea1e5e414085b287cddff78346",
+    "spaceKey": "057841690ec8402a88c2b29b817a56e0",
     "connections": {
-      "webIDE": "https://4b366aea1e5e414085b287cddff78346.codebuddy.cloudstudio.club",
-      "preview": "https://4b366aea1e5e414085b287cddff78346--{port}.codebuddy.cloudstudio.club",
-      "api": "https://4b366aea1e5e414085b287cddff78346--api.codebuddy.cloudstudio.club",
-      "pty": "https://4b366aea1e5e414085b287cddff78346--pty.codebuddy.cloudstudio.club"
+      "webIDE": "https://057841690ec8402a88c2b29b817a56e0.codebuddy.cloudstudio.club",
+      "preview": "https://057841690ec8402a88c2b29b817a56e0--{port}.codebuddy.cloudstudio.club",
+      "api": "https://057841690ec8402a88c2b29b817a56e0--api.codebuddy.cloudstudio.club",
+      "pty": "https://057841690ec8402a88c2b29b817a56e0--pty.codebuddy.cloudstudio.club"
     }
   },
   "config": {
-    "api": "https://4b366aea1e5e414085b287cddff78346--api.codebuddy.cloudstudio.club",
-    "pty": "https://4b366aea1e5e414085b287cddff78346--pty.codebuddy.cloudstudio.club",
+    "api": "https://057841690ec8402a88c2b29b817a56e0--api.codebuddy.cloudstudio.club",
+    "pty": "https://057841690ec8402a88c2b29b817a56e0--pty.codebuddy.cloudstudio.club",
     "region": "ap-shanghai",
-    "spaceKey": "4b366aea1e5e414085b287cddff78346"
+    "spaceKey": "057841690ec8402a88c2b29b817a56e0"
   }
 }

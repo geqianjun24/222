@@ -1,7 +1,26 @@
 body {
     font-family: 'Microsoft YaHei', sans-serif;
-    padding-top: 20px;
+    padding: 0;
+    margin: 0;
     background-color: #f8f9fa;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.form-container {
+    position: sticky;
+    top: 0;
+    background: white;
+    z-index: 1000;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.team-list-container {
+    flex: 1;
+    overflow-y: auto;
+    padding: 20px;
 }
 
 .card {
